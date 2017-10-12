@@ -1,0 +1,193 @@
+
+
+
+/*	################################################################
+	13. CONTACT AND MAP SECTION
+	################################################################# */
+	
+	#success_page h1 {
+		font-size:24px;
+		font-weight:bold; 
+		text-transform:uppercase;
+	}
+	
+	.loader1 {
+    vertical-align: super;
+    padding-left: 20px;
+}
+	
+	.form-control {
+		border-radius: 0 !important;
+		box-shadow: none !important;
+	}
+	
+	.contact-wrapper {
+		display:block;
+		padding:70px 0;
+		position:relative;
+		background-color:#fff;
+	}
+	
+	#contactform {
+		margin:30px 0;
+		}
+	#contactform .form-control {
+		margin: 10px 0;
+		height: 50px;
+		font-weight: 500;
+		font-size: 12px;
+		}	
+		
+	#contactform textarea {
+		height:150px !important;
+		}
+	
+	#contactform span.required{ 
+		font-size: 13px; color: #ff0000; 
+		} 
+	
+	.btn-primary {
+		display: inline-block;
+		padding: 6px 13px;
+		margin-bottom: 0;
+		font-size: 14px;
+		font-weight: 700;
+		line-height: 1.428571429;
+		text-align: center;
+		vertical-align: middle;
+		cursor: pointer;
+		white-space: nowrap;
+		background: 0 0;
+		color: #292723!important;
+		border: 1px dashed #F7C221;
+		margin-top: 30px;
+		text-transform: uppercase;
+	}
+	
+	.contact-box img {
+		padding-bottom:15px;
+		margin-bottom:30px;
+	}
+	.contact-box {
+		margin:0;
+		color:#999999;
+		padding:0;
+	}
+	
+	.contact-box h2 {
+		margin: 20px 0;
+		font-size: 13px;
+		text-transform: uppercase;
+		color: #3C3B3B;
+		font-weight: 700;
+	}
+	
+	.btn-contact:hover {
+		background: none !important;
+		border-color: #F7C221 !important;
+	}
+	
+	
+	.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+		font-weight: 700 !important;
+		font-size: 12px !important;
+		border: 1px dashed #FFF !important;
+		text-transform: uppercase;
+		padding: 10px;
+		border: 1px dashed #F7C221 !important;
+		letter-spacing: 3px;
+		color: #F7C221 !important;
+	}
+	
+	.nav-tabs > li > a {
+		border: none !important;
+		background: none !important;
+		font-weight: 500 !important;
+		font-size: 12px !important;
+		border: 1px dashed #FFF;
+		text-transform: uppercase;
+		padding: 10px !important;
+		letter-spacing: 3px !important;
+		color: #999 !important;
+	}
+	
+	.nav-tabs {
+		border: 0 !important;
+		padding-bottom: 40px;
+	}
+	
+	.btn-contact {
+		border-radius:0 !important;
+		margin-bottom: 75px;
+		}
+			
+	.btn-contact:hover {
+		background:none  !important;
+		margin-bottom: 75px;
+		}
+			
+	.nav-tabs > li {
+		float:none;
+		margin:20px 10px 0 !important;
+		display:inline-block;
+		}	
+		
+	#map{
+		height:450px;
+		width:100%;
+		margin-bottom:80px;
+	}
+	#map img{
+		max-width:inherit
+		}
+	.map{
+		position:relative
+		}
+	.map .row{
+		position:relative
+		}
+		
+	.infobox img {
+		width:100% !important;
+	}
+	.map .searchmodule {
+		padding:18px 10px
+	}
+	.infobox {
+		display: inline-block;
+		padding: 5px;
+		position: relative;
+		width: 270px;
+	}
+	.infobox img {
+		width:80px !important;
+		padding-right:10px
+	}
+	.infobox .title {
+		font-size:13px;
+		font-weight:bold;
+		margin-top:0;
+		margin-bottom:0;
+		text-transform:uppercase;
+		padding-bottom:5px;
+	}
+	.infobox .title a {
+		font-weight:bold;
+	}
+		
+	.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+	color: #FFF !important;
+	background-color: #F7C221 !important;
+	border-color: #F7C221 !important;
+	}
+	
+	.error_message {
+	color: #F00!important;
+	}
+	
+	.contact-box .fa {
+		font-size: 40px;
+		color: #F7C221;
+	}
+			
+	
