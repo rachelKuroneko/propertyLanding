@@ -9582,6 +9582,7 @@ a img:after {
   padding-right: 15px;
   padding-left: 30px;
   padding-right: 30px;
+  margin-top: 20px;
 }
 @media (max-width: 767px) {
   .content-wrapper.fullWidth {
